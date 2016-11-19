@@ -1,1 +1,1 @@
-web: python hello.py
+web: python --version && python hello.py
