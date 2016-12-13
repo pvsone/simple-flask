@@ -1,0 +1,6 @@
+---
+applications:
+  - name: flask
+    buildpack: python_buildpack
+    env:
+      PYTHONUNBUFFERED: TRUE
